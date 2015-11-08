@@ -1,6 +1,6 @@
 # CSGO Valve Matchmaking IP Ranges
 
-Send a pull request if something is not correct or needs updating.
+Send a pull request if something is not correct or needs updating. Locations are guesses.
 
 **EU North** (Stockholm, Russia)    
 146.66.156.0/24  
@@ -54,4 +54,12 @@ Send a pull request if something is not correct or needs updating.
 
 **India** (New Delhi)  
 180.149.41.0/24  
+10.130.205.0/24  
 116.202.224.146/32  
+
+**Japan**
+45.121.184.0/23  
+45.121.186.0/23
+
+**Singapore**
+103.28.54.0/23
