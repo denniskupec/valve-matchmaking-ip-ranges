@@ -61,5 +61,5 @@ Send a pull request if something is not correct or needs updating. Locations are
 45.121.184.0/23  
 45.121.186.0/23
 
-**Singapore**
+**Singapore**  
 103.28.54.0/23
