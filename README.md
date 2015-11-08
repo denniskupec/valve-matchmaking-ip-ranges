@@ -57,7 +57,7 @@ Send a pull request if something is not correct or needs updating. Locations are
 10.130.205.0/24  
 116.202.224.146/32  
 
-**Japan**
+**Japan**  
 45.121.184.0/23  
 45.121.186.0/23
 
