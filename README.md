@@ -25,6 +25,10 @@ Send a pull request if something is not correct or needs updating. Locations are
 208.78.165.0/24  
 208.78.166.0/24  
 
+**US South-East**  
+162.254.199.0/24  
+
+
 **US West** (Seattle, Washington)   
 192.69.96.0/24  
 192.69.97.0/24  
