@@ -26,6 +26,10 @@ IP addresses used might change without notice, this is not an official document.
 146.66.158.0/24  
 146.66.159.0/24  
 
+**Spain**  
+155.133.246.0/24  
+155.133.247.0/24  
+
 **Middle East**   
 185.25.183.0/24  (Dubai) 
 
