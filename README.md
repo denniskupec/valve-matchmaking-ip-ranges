@@ -18,10 +18,10 @@ IP addresses used might change without notice, this is not an official document.
 155.133.241.0/24 
 
 **EU East**   
-146.66.155.0/24 (Luxembourg)   
-185.25.182.0/24 (Italy)  
+146.66.155.0/24 (Italy)   
+185.25.182.0/24
 
-**EU West**
+**EU West**  
 146.66.152.0/24 (Luxembourg)    
 146.66.158.0/24  
 146.66.159.0/24  
