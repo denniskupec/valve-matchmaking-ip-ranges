@@ -3,14 +3,14 @@
 Send a pull request if something is not correct or needs updating. Locations are guesses.  
 IP addresses used might change without notice, this is not an official document.
 
-**Peru**
-143.137.146.0/24
+**Peru**  
+143.137.146.0/24  
 
-**Chile**
-155.133.249.0/24
+**Chile**  
+155.133.249.0/24  
 
-**Spain**
-155.133.247.0/24
+**Spain**  
+155.133.247.0/24  
 
 **EU North**  
 146.66.156.0/24  (Stockholm, Sweden)  
