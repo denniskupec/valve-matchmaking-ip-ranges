@@ -3,8 +3,6 @@
 Send a pull request if something is not correct or needs updating. Locations are guesses.  
 IP addresses used might change without notice, this is not an official document.
 
-***Need:***  United Arab Emirates, US North-West
-
 **Peru**
 143.137.146.0/24
 
