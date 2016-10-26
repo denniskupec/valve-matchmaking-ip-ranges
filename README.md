@@ -30,6 +30,7 @@ IP addresses used might change without notice, this is not an official document.
 
 **EU West**  
 146.66.152.0/24 (Luxembourg)    
+146.66.153.0/24  
 146.66.158.0/24  
 146.66.159.0/24  
 
