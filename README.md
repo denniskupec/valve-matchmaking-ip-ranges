@@ -66,7 +66,7 @@ IP addresses used might change without notice, this is not an official document.
 **Australia**      
 103.10.125.0/24 (Sydney)
 
-**South America**   
+**Brazil**   
 209.197.29.0/24 (Brazil)  
 209.197.25.0/24  
 205.185.194.0/24  
