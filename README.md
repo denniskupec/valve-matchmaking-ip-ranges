@@ -25,7 +25,7 @@ IP addresses used might change without notice, this is not an official document.
 155.133.241.0/24 
 
 **EU East**   
-146.66.155.0/24 (Italy)   
+146.66.155.0/24 (Austria)   
 185.25.182.0/24
 
 **EU West**  
