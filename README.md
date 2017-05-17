@@ -9,9 +9,6 @@ IP addresses used might change without notice, this is not an official document.
 **Chile**  
 155.133.249.0/24  
 
-**Spain**  
-155.133.247.0/24  
-
 **EU North**  
 146.66.156.0/24  (Stockholm, Sweden)  
 146.66.157.0/24  
@@ -35,6 +32,7 @@ IP addresses used might change without notice, this is not an official document.
 146.66.153.0/24  
 146.66.158.0/24  
 146.66.159.0/24  
+155.133.248.0/24  
 
 **Spain**  
 155.133.246.0/24  
