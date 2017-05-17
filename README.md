@@ -19,10 +19,12 @@ IP addresses used might change without notice, this is not an official document.
 185.25.181.0/24  
 
 **Poland**  
+155.133.228.0/24  
+155.133.229.0/24  
 155.133.243.0/24  
 155.133.242.0/24  
 155.133.240.0/24  
-155.133.241.0/24 
+155.133.241.0/24  
 
 **EU East**   
 146.66.155.0/24 (Austria)   
